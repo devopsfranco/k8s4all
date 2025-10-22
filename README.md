@@ -71,25 +71,25 @@ There's no deadline. No grades. No rush. Take time to think, discuss, and apply 
 Each module builds on conversations about real concepts, explained in human terms:
 
 ### Foundation: Understanding Your Starting Point
-- **Module 0**: Where are you now? What are you trying to achieve?
-- **Module 1**: What problems are you solving? What challenges do you face?
+- **Module 00**: **Your Starting Point** - Where are you now? What are you trying to achieve? Establish context for personalized learning
+- **Module 01**: **Understanding Your Challenges** - Deep dive into root causes, patterns, and what you can control
 
 ### Core Concepts: Building Blocks for Your Context
-- **Module 2**: Breaking down complexity in your work
-- **Module 3**: Understanding systems and how they connect
-- **Module 4**: Making things repeatable and reliable
-- **Module 5**: Scaling what works for you
+- **Module 02**: **Breaking Down Complexity** - Learn to decompose, prioritize, and simplify overwhelming challenges
+- **Module 03**: **Systems Thinking** - See connections, feedback loops, and leverage points in your work
+- **Module 04**: **Making Things Repeatable** - Create reliable processes without bureaucracy
+- **Module 05**: **Scaling What Works** - Expand success thoughtfully while maintaining quality
 
 ### Advanced Application: Your Specific Challenges
-- **Module 6**: Handling changes and growth in your context
-- **Module 7**: Collaborating and coordinating across teams
-- **Module 8**: Automation and efficiency in your workflow
-- **Module 9**: Making smart decisions about tools and approaches
+- **Module 06**: **Managing Change** - Lead transitions effectively and navigate unwelcome changes
+- **Module 07**: **Collaboration and Communication** - Work effectively with others in your context
+- **Module 08**: **Decision Making Under Uncertainty** - Make sound decisions with incomplete information
+- **Module 09**: **Measuring What Matters** - Design meaningful metrics that illuminate rather than distort
 
 ### Mastery: Your Custom Solutions
-- **Module 10**: Designing solutions for your unique situation
-- **Module 11**: Leading change in your organization
-- **Module 12**: Continuing to learn and adapt
+- **Module 10**: **Leading and Influencing** - Create change and develop others, with or without authority
+- **Module 11**: **Continuous Learning and Adaptation** - Build sustainable practices for ongoing growth
+- **Module 12**: **Designing Your Own Solutions** - Synthesize everything to create custom solutions for your challenges
 
 ## Getting Started
 
